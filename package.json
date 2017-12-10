@@ -1,0 +1,45 @@
+{
+  "name": "haiti-waste-mgt",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "dangerously-set-inner-html": "^2.0.1",
+    "dayz": "^0.8.0",
+    "html-webpack-plugin": "^2.30.1",
+    "moment": "^2.19.3",
+    "moment-range": "^3.1.0",
+    "rc-calendar": "^9.3.1",
+    "react": "^16.2.0",
+    "react-big-calendar": "^0.17.0",
+    "react-bootstrap": "^0.31.5",
+    "react-dom": "^16.2.0",
+    "react-google-maps": "^9.4.2",
+    "react-html-parser": "^2.0.2",
+    "react-input-calendar": "^0.5.1",
+    "react-load-script": "^0.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.17",
+    "react-sidebar": "^2.3.2",
+    "recompose": "^0.26.0",
+    "semantic-ui": "^2.2.13",
+    "semantic-ui-css": "^2.2.12",
+    "semantic-ui-react": "^0.77.0",
+    "superagent": "^3.8.1",
+    "webpack": "^3.10.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-changed": "^3.1.1",
+    "gulp-clean-css": "^3.9.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
